@@ -7,7 +7,7 @@ permalink:           pretty
 title:               '> Skyepaphora Griffith <'
 tagline:             '"something mathy"'
 description:         'Isn't this neat'
-baseurl:             '/'
+baseurl:             ''
 paginate:            5
 markdown:            kramdown
 
@@ -24,7 +24,7 @@ kramdown:
 # About/contact
 author:
   name:              Your Name
-  url:               https://your-username.github.io
+  url:               https://skyepaphora.github.io
   email:             youremail@email.com
 
 # Custom vars
