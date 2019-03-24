@@ -7,7 +7,7 @@ permalink:           pretty
 title:               '> Skyepaphora Griffith <'
 tagline:             '"something mathy"'
 description:         'Isn't this neat'
-baseurl:             '/tmsc-workshop'
+baseurl:             '/'
 paginate:            5
 markdown:            kramdown
 
