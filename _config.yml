@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               '> Your Name Here <'
+title:               '> Skyepaphora Griffith <'
 tagline:             '"something mathy"'
-description:         'Look ma, I have a website!'
+description:         'Isn't this neat'
 baseurl:             '/tmsc-workshop'
 paginate:            5
 markdown:            kramdown
